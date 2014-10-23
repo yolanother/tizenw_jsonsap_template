@@ -1,0 +1,3 @@
+[submodule "project/libs/jsonsapconsumer"]
+	path = project/libs/jsonsapconsumer
+	url = https://github.com/yolanother/JsonSapConsumer
